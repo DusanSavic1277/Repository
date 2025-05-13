@@ -25,3 +25,5 @@ Program će se pokrenuti u terminalu (Output prozoru) i vodiće te kroz igru.
 
 - Java JDK 8 ili novija
 - NetBeans IDE (preporučeno)
+
+[Klikni ovde da vidiš projekat](https://github.com/DusanSavic1277/Repository/tree/main)
